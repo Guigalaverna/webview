@@ -1,0 +1,17 @@
+{
+  "window": {
+    "width": 800,
+    "height": 600,
+    "alwaysOnTop": true, 
+    "resizable": true,
+    "frame": true,
+    "titleBarStyle": "customButtonsOnHover",
+    "autoHideMenuBar": true,
+    "closable": true,
+    "titleBarStyle": "hidden",
+    "webPreferences": {
+      "nodeIntegration": true
+    }
+  },
+  "url": "http://localhost:3000"
+}
